@@ -1,4 +1,4 @@
-# whale_detector
+# whaledetector
 Whale Detector for Kaggle's Right Whale Recognition Challenge
 
 <a href="http://kaggle.com" target="_blank">Kaggle's</a> <a href="https://www.kaggle.com/c/noaa-right-whale-recognition" target="_blank">NOAA Right Whale Recognition Challenge</a> aims to develop an algorithm to identify individuals of Right Whales, which are critically endangered. It is a great chance to study machine learning and digital image processing although looks to me as a really hard challenge. Anyway I've developed this method to detect the whale in the photograph and I'm releasing it in a hope that it may help others.
